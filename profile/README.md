@@ -28,9 +28,11 @@ Our mission is simple: to provide the DEF CON community with a streamlined way t
 
 2. **Contribute**: Have something to share? Become a part of our curation team and help others navigate DEF CON.
 
+3. <a href="https://www.buymeacoffee.com/defconparrot"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a googly eye&emoji=🤠&slug=defconparrot&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ---
 
-<p align="left"> <a href="https://twitter.com/defconparrot" target="blank"><img src="https://img.shields.io/twitter/follow/defconparrot?logo=twitter&style=for-the-badge" alt="defconparrot" /></a> </p>
+<p align="left"> <a href="https://x.com/defconparrot" target="blank"><img src="https://img.shields.io/twitter/follow/defconparrot?logo=twitter&style=for-the-badge" alt="defconparrot" /></a> </p>
 
 Let's make your DEF CON journey seamless, exciting, and unforgettable. Dive in and explore the world of DEF CON with us! 🚀
 
