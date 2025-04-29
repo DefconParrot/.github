@@ -26,13 +26,21 @@ Our mission is simple: to provide the DEF CON community with a streamlined way t
 
 1. **Connect with Us**: Join [DC community](https://forum.defcon.org/social-groups) or follow some of the links included here > [https://linktr.ee/defconparrot](https://linktr.ee/defconparrot) to stay updated and engage in discussions.
 
-2. **Contribute**: Have something to share? Become a part of our curation team and help others navigate DEF CON.
+2. **Get Involved**: Have something to share? Become a part of our curation team and help others navigate DEF CON.
 
-3. <a href="https://www.buymeacoffee.com/defconparrot"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a googly eye&emoji=🤠&slug=defconparrot&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+3.   <a href="https://www.buymeacoffee.com/defconparrot"><img src="https://img.buymeacoffee.com/button-api/?text=Support the Project&emoji=🤠&slug=defconparrot&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+---
+
+> [!Note]
+> DEF CON Parrot is an independent, community-driven project created to celebrate and amplify moments, memories, and culture from the DEF CON hacker community.
+This project is not affiliated with, endorsed by, or sponsored by DEF CON, DEF CON Communications, or any official DEF CON entity.
+All references to "DEF CON" are made solely for descriptive and informational purposes.
 
 ---
 
 <p align="left"> <a href="https://x.com/defconparrot" target="blank"><img src="https://img.shields.io/twitter/follow/defconparrot?logo=twitter&style=for-the-badge" alt="defconparrot" /></a> </p>
 
-Let's make your DEF CON journey seamless, exciting, and unforgettable. Dive in and explore the world of DEF CON with us! 🚀
+Let's make your DEF CON journey seamless, exciting, and unforgettable. Dive in and explore the world of DEF CON with us 🚀
 
